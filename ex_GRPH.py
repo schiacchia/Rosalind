@@ -33,4 +33,4 @@ for line in inFile:
 for rosID in seqDict:
     function(rosID, seqDict[rosID])
 
-print "I have made a change" 
+print "I am making a change here" 
