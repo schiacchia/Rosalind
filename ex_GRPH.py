@@ -32,3 +32,5 @@ for line in inFile:
 # Loops through rosID's
 for rosID in seqDict:
     function(rosID, seqDict[rosID])
+
+print "I have made a change" 
